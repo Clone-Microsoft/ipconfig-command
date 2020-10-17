@@ -1,0 +1,7 @@
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfigtest.exe.config
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfigtest.exe
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfigtest.pdb
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfigtest.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfigtest.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfigtest.exe
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfigtest.pdb

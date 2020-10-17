@@ -1,0 +1,6 @@
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfig.exe.config
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfig.exe
+C:\Users\Stefan\source\repos\Test\Test\bin\Debug\ipconfig.pdb
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfig.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfig.exe
+C:\Users\Stefan\source\repos\Test\Test\obj\Debug\ipconfig.pdb
